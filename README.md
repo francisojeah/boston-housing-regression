@@ -24,10 +24,7 @@ This project involves building a regression model to predict the median value of
    git clone https://github.com/francisojeah/boston-housing-regression.git
    ```
 2. **Open the Jupyter Notebook**:
-   Navigate to the project folder and open `Boston_Housing_Regression.ipynb` with Jupyter Notebook:
-   ```bash
-   jupyter notebook Boston_Housing_Regression.ipynb
-   ```
+   Navigate to the project folder and open `Boston_Housing_Regression.ipynb` with Jupyter Notebook.
 
 ## Project Steps
 
